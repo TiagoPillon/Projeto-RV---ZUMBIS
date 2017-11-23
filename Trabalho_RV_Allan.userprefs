@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\zombieScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\zombieScript.cs" Line="36" Column="48" />
+      <File FileName="Assets\VRSampleScenes\Scripts\Menu\NovoButton.cs" Line="59" Column="27" />
+      <File FileName="Assets\Scripts\Area.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Score.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\playerScript.cs" Line="65" Column="8" />
+      <File FileName="Assets\VRSampleScenes\Scripts\Menu\ZombieHead.cs" Line="28" Column="58" />
+      <File FileName="Assets\Scripts\SelectionRadialGaze.cs" Line="32" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
